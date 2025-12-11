@@ -1,7 +1,6 @@
 # pycrn
 A python version of crn++
-
-# Interpretation
+This project is a Python counterpart to the CRN++ Mathematica package originally developed by David Soloveichik (see: https://github.com/marko-vasic/crnPlusPlus ).
 
 # How are we simulating ODES
 
